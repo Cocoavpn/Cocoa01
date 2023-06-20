@@ -1,117 +1,147 @@
 {
-
-   "files": [    
-
+   "files": [
+    
 {
-
-         "name": "Cocoa.TH-01-DTAC.TRUE",
-
-         "url": "1Z2SvJmiYnJBmS4oM6LnSYEkFeDYo22axWAcizy1fpkoiFBQfKhMOh/mu02bhl7MRyS1OivqbQ4Ubtz9jmgpsEckvLij/bQQ"
-
+         "name": "01-DTAC-Cocoa.TH",
+         "url": "wKL7knFnFrritM2JsLrp91hGmdH998gs2fzMDH0FuilcOjLx88izNCF+p5Qr/bY86kEafVKS3eE0V8DHAYRkDNzZdIZyENUY"
       }
-
 ,
-
 {
-
-         "name": "Cocoa.TH-01-AIS",
-
-         "url": "vLGgG0CQ9EdJSRMkNmMgWWjOYNMgkXUFxV/NYCVhd36Eg+3TgKNCSXfqe08wkUjfJivlfLH3NIeQVAQIHnOKAvyMbJCtV3d/"
-
+         "name": "01-TRUE-Cocoa.TH",
+         "url": "/CFEI9jsmb2mi0nGOgUWLIm3eJE7IDD5sTooY4dSnEbn0hjg/l4kvg6q5W7VCz+K/EPDwDFp/nkIdUAH16Fzti7rcPr1tZFq"
       }
-
 ,
-
 {
-
-         "name": "Cocoa.TH-02-DTAC.TRUE",
-
-         "url": "62qiADKrRPgiqJ5EQQ+btBF3XNIppO4uSubpqfCvgSl5KThemGR7/cWSG0Q0NTbkDK99mRcwo4NuUX2oJkH5CuPsP0zdFl+2"
-
+         "name": "01-AIS-Cocoa.TH",
+         "url": "uTtpCmO62flA5tXat0M8bEYJF/s36zgQdRxXmEMuFFa1wqVo32q5JGXBRkrEDTIrK92Xv3sYpysYDRP/qtrP38MTJMypxT/O"
       }
-
 ,
-
 {
-
-         "name": "Cocoa.TH-02-AIS",
-
-         "url": "IfmiNYb8SbxT0C/DZaAIauPEc7mX4HSdUjXXR1YKSULjRYOMMqTXFrdW3ySOfbn4oyXru2jeGNeSEcijmB8muOiszwTVb7F/"
-
+         "name": "02-DTAC-Cocoa.TH",
+         "url": "3H4BZHNDCyqwHpzyILWWe+LH36hsHKPuPeBb5ewPBvOOgxYNZuPYk045MeePL7Im9NgH5CJFwR4nd10yidmwPRcRrplOOTHL"
       }
-
 ,
-
 {
-
-         "name": "GAME.TH-01-DTAC.TRUE",
-
-         "url": "AMXA4InPvbbpbFnBeZeSLuznrffYzf9FZ5acz7fWIR1y88OOeH0nI45p7CBqnAbWl/J89h+9pUwJ2Hc/PNXq75JEfMnp7i/n"
-
+         "name": "02-TRUE-Cocoa.TH",
+         "url": "mkmudmpfg1zOldIH21Kfdsh3GIVKo8+K+NNWEWL3ZEsN3r7MFTmT4KQPuC7fuWcqmpKI7rieXb7KrRIZRt5rsz7eYvGD8waq"
       }
-
 ,
-
 {
-
-         "name": "GAME.TH-01-AIS",
-
-         "url": "RsOnh+t4fCy4J4FYHN3o8JA+21xk2cybELmeHe8xUB8C/GceTH0ExkgZdw0FHFDPmZE3KRJyDfem2W5cq55ItgLYt9STsADh"
-
+         "name": "02-AIS-Cocoa.TH",
+         "url": "7oXY6J4SbuzqUnwoxvvOK/7VdkHx/7PQu/8pIvtVAmf5THtOmzZBPE6v1vgrwfqixvObh+DCJM8l1dotjK92UPRRtILBIvRX"
       }
-
 ,
-
 {
-
-         "name": "GAME.TH-02-DTAC.TRUE",
-
-         "url": "pOgrMZmpYWFLrZuENgAG/xkOfHHagJ+EcA/4KENtQzE8CESFXZTq7PWhmPR2saZAUvHJ32MeWIlwad1hw0N8Sel7k6IJqVU9"
-
+         "name": "03-DTAC-Cocoa.TH",
+         "url": "ekQqZweN+m5wiNoVVDM0Ay46HBiWSfo5KKc/D1+5RuzOO+Gl30azRLXJ4IB+UaX3iTJZvu4VhNmgxoGLRMF7aBTDoRozrcpD"
       }
-
 ,
-
 {
-
-         "name": "GAME.TH-02-AIS",
-
-         "url": "ErZD0BuXURn4QeCq04xXGSm47/jXhHbODXc8CLhe443g31tbqL+UDAeWuSH2KzM6D+KgEjn1vVVpZNxDFrO5BTE0+AIL1Qch"
-
+         "name": "03-TRUE-Cocoa.TH",
+         "url": "qQ75+BajegvVvNzKj/0ZyGXUFJ51ChuNoPs73p3Iv3lyE2k1T8Ko1KR9BTINRMCLkEfv9hvV9wEBFJzJftTn2PD64B9b3W6R"
+      }
+,
+{
+         "name": "03-AIS-Cocoa.TH",
+         "url": "ii3MMfQkzj/DeJdHe5Jyr0100tvwrSscDmBxLieAFhSlh9rStVA+UPAycZ0c68oq92trAvxMa1O3yqlrTcQCfMbp2mHOhtcX"
+      }
+,
+{
+         "name": "04-DTAC-Cocoa.TH",
+         "url": "Dm2lbOVtVVEguQq9LHFNZEWM1uVHdnNlWXUJI1qyGXCuiI+2/Dh2ex3Ew+egFRwvDt0hOk+zPHIUgi9LJdZYdO78SUk1/tvv"
+      }
+,
+{
+         "name": "04-TRUE-Cocoa.TH",
+         "url": "UW/PtVRgQKmrCYKnL9LBRfO0auSMmbNcY6bOP4ZVLixxnZP3F0j1XOhUKuDGKTtXG93X56UNTOazkdJmSsqawEjtnyofQzaZ"
+      }
+,
+{
+         "name": "04-AIS-Cocoa.TH",
+         "url": "bIxNJL1Lu5IjeKftVNGkvQNaxWpglNd9dnlS9PH2pRzN6mMdz5CPnkfPKHTU/WJwq8lcTna+ppD9Nv615mq6gwIpHYwurqv3"
+      }
+,
+{
+         "name": "01-DTAC-GAME.TH",
+         "url": "eND0zTnbPijw4GI1LSI+H9w8bRlpBrxkE57CwUsjB9JoXlg2IjUXy06+X6yko97nDafqsovOkQyoYKuZ47hyxGnbwF1EHFQ4"
+      }
+,
+{
+         "name": "01-TRUE-GAME.TH",
+         "url": "Z2vRDJegwmU9Ss1JWeS9o3da3n6yzRI/lisl/GdB48B/G5+uW1XgzX1orgd4TruoAXHVYSlz2pVwo+q5iURw5gasThteJTKA"
+      }
+,
+{
+         "name": "01-AIS-GAME.TH",
+         "url": "fEX47unL3qtatyTbfH8Qa5Xqb2yYlRIAwXVjQZgUrKNL/XpB8wZl/kIGDnm2W8Zl9+7Z4VWONIIrRFvJ9JjRy7BoeEV4t0PZ"
+      }
+,
+{
+         "name": "02-DTAC-GAME.TH",
+         "url": "ZWn6S79RH688QFH3Kq5xPiD0ITC8Olu7I386pbqEH+44IEAPSZILr3X+4GCZC4CG2jycgs+FkBvx58uwe6J/JRVI01KXiqJS"
+      }
+,
+{
+         "name": "02-TRUE-GAME.TH",
+         "url": "sKtrjQtnzHqFs2akQQ0cFy3675fZ1s2BjzEYumAC8/p6fRiGVa+iA9QmZtSz4SyYsGkb25mah+7GIopWghJyyrLYGu//wHe2"
+      }
+,
+{
+         "name": "02-AIS-GAME.TH",
+         "url": "IZmw2f5UKsFtD6FUskZYLA1dHds0QOvNvmFsxAsylRHRQqZfG6kUuCqwpl3T9OduWReOpZXIuQxjGfppeEuzLNVdrHP77qyE"
+      }
+,
+{
+         "name": "VIP-DTAC-Gamer.TH",
+         "url": "CDvcjmVFYsISpULQdap8T1FLTOJkRqQug0K6Dp6zY+vsm5WZgg2vdxo3vdpvXkXyzEv73tmcFdZugfhQsS0aV7N+5oogmnH7"
+      }
+,
+{
+         "name": "VIP-TRUE-Gamer.TH",
+         "url": "0T8WMKDLRR6yyRJThHYaT0ERc5d+hFBiF3P7pKqESDgAtYnd1Hxt+XGOYmvSj3Thk0ZIcRshPxolxCR8GwYegvb816hTFIaa"
+      }
+,
+{
+         "name": "VIP-AIS-Gamer.TH",
+         "url": "lBVzhEoYqshI9/qEf3JqRe9bp+f5HMy6SL/w8PRCWUwoA1ZPtaTdsLlJAx1FMi4tgVcFqFnaC7YbKJ3cjVDA2l8Aohea5Vt5"
+      }
+,
+{
+         "name": "VIP-DTAC-Ready.TH",
+         "url": "nuV9N88MrtQkEYmt2tZQwzz9X5AINXTCvPhQQZPhBpiQrYW9ITv+AlLg9VOVWc4s+k3ebeItVFnB1vuLGsfCtohL0WWICt9k"
+      }
+,
+{
+         "name": "VIP-TRUE-Ready.TH",
+         "url": "/s3vz5YK2JPAyqGH+E0x2BR/PNP/y6ahK/hLyrkrOlNQo9NKEji/c8fha0/5eJf9mTMTwwzaB5p6qQmwlTUAW6asW0h/iehU"
+      }
+,
+{
+         "name": "VIP-AIS-Ready.TH",
+         "url": "xI+8FPKh3z/CH70NbZ5qUcj0GXTe4znywnyhNP74jYpXycjj07dyOut9zwW912ME0e5fwMCIpasN19oS5yNAMN9h3lLpsMww"
       }
 
    ],
-
 "message":"
-
 🌎- ระบบอัพเดทอัตโนมัติ -🌎
+✨กรุณาอัพให้เป็นเวอร์ชั่นล่าสุด✨
 
-📱เซริฟทั่วไป 📌
+📱เซริฟทั่วไป Cocoa.TH📌
+✅ : เล่นโซเชียล ดูหนัง ฟังเพลง ดูยูทูป ดูติกตอกไม่มีติด
 
-✅ :เล่นโซเชียว ดูหนัง ฟังเพลง ดูยูทูป ดูติกตอกไม่มีติด
-
-⌨️ เซริฟเกมส์ 🖲️
-
+⌨️ เซริฟเกมส์ GAME.TH📱
 ✅ : เล่น เกมส์ได้ ปิงต่ำและแรงทันใจ
-
  
-
-    🙏รบกวนดูโฆษณา🙏
-
-📣เพื่อเป็นกำลังใจให้แอดมิน        
-
-📣และเพิ่มเซริฟเวอร์ที่แรงและเร็วกว่าเดิม           
+    🙏 รบกวนดูโฆษณา 🙏
+📣 เพื่อเป็นกำลังใจให้แอดมิน       
+📣 และเพื่อเพิ่มเซริฟเวอร์ที่แรงและเร็วกว่าเดิม           
 
        ❗ หมายเหตุ❗
-
- ⚠️ติดปัญหาอะไร สามารถติดต่อ-สอบถาม แอดมินได้ตลอด
-
+ ⚠️ ติดปัญหาอะไร สามารถติดต่อ-สอบถาม แอดมินได้ตลอด
   🌎ขอให้สนุกกับการใช้งาน🌎
 
-\n\nเวอร์ชั่นไฟล์:01",
 
+\n\nเวอร์ชั่นไฟล์:02",
 "title":"New Update File" ,
-
-   "version":01
-
-}...
+   "version":02
+	   }

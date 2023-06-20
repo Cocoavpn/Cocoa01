@@ -1,123 +1,130 @@
 {
    "files": [    
+
 {
          "name": "01-DTAC-Cocoa.TH",
-         "url": "https://raw.githubusercontent.com/Cocoavpn/Cocoa01/main/TH09.ovpn"
+         "url": "https://raw.githubusercontent.com/Cocoavpn/Cocoa01/main/TH33.ovpn"
       }
 ,
 {
          "name": "01-TRUE-Cocoa.TH",
-         "url": "https://raw.githubusercontent.com/Cocoavpn/Cocoa01/main/TH10.ovpn"
+         "url": "https://raw.githubusercontent.com/Cocoavpn/Cocoa01/main/TH34.ovpn"
       }
 ,
 {
          "name": "01-AIS-Cocoa.TH",
-         "url": "https://raw.githubusercontent.com/Cocoavpn/Cocoa01/main/TH11.ovpn"
+         "url": "https://raw.githubusercontent.com/Cocoavpn/Cocoa01/main/TH35.ovpn"
       }
 ,
 {
-         "name": "02-DTAC-Cocoa.TH",
-         "url": "https://raw.githubusercontent.com/Cocoavpn/Cocoa01/main/TH12.ovpn"
+     
+ "name":
+"02-DTAC-Cocoa.TH",
+         "url": "https://raw.githubusercontent.com/Cocoavpn/Cocoa01/main/TH36.ovpn"
       }
 ,
 {
-         "name": "02-TRUE-Cocoa.TH",
-         "url": "https://raw.githubusercontent.com/Cocoavpn/Cocoa01/main/TH13.ovpn"
+      
+  "name":
+"02-TRUE-Cocoa.TH",
+         "url": "https://raw.githubusercontent.com/Cocoavpn/Cocoa01/main/TH37.ovpn"
       }
 ,
 {
-         "name": "02-AIS-Cocoa.TH",
-         "url": "https://raw.githubusercontent.com/Cocoavpn/Cocoa01/main/TH14.ovpn"
+        
+ "name":
+"02-AIS-Cocoa.TH",
+         "url": "https://raw.githubusercontent.com/Cocoavpn/Cocoa01/main/TH38.ovpn"
       }
 ,
 {
          "name": "03-DTAC-Cocoa.TH",
-         "url": "https://raw.githubusercontent.com/Cocoavpn/Cocoa01/main/TH15.ovpn"
+         "url": "https://raw.githubusercontent.com/Cocoavpn/Cocoa01/main/TH39.ovpn"
       }
 ,
 {
          "name": "03-TRUE-Cocoa.TH",
-         "url": "https://raw.githubusercontent.com/Cocoavpn/Cocoa01/main/TH16.ovpn"
+         "url": "https://raw.githubusercontent.com/Cocoavpn/Cocoa01/main/TH40.ovpn"
       }
 ,
 {
          "name": "03-AIS-Cocoa.TH",
-         "url": "https://raw.githubusercontent.com/Cocoavpn/Cocoa01/main/TH17.ovpn"
+         "url": "https://raw.githubusercontent.com/Cocoavpn/Cocoa01/main/TH41.ovpn"
       }
 ,
 {
          "name": "04-DTAC-Cocoa.TH",
-         "url": "https://raw.githubusercontent.com/Cocoavpn/Cocoa01/main/TH18.ovpn"
+         "url": "https://raw.githubusercontent.com/Cocoavpn/Cocoa01/main/TH42.ovpn"
       }
 ,
 {
          "name": "04-TRUE-Cocoa.TH",
-         "url": "https://raw.githubusercontent.com/Cocoavpn/Cocoa01/main/TH19.ovpn"
+         "url": "https://raw.githubusercontent.com/Cocoavpn/Cocoa01/main/TH43.ovpn"
       }
 ,
 {
          "name": "04-AIS-Cocoa.TH",
-         "url": "https://raw.githubusercontent.com/Cocoavpn/Cocoa01/main/TH20.ovpn"
+         "url": "https://raw.githubusercontent.com/Cocoavpn/Cocoa01/main/TH44.ovpn"
       }
 ,
 {
          "name": "01-DTAC-GAME.TH",
-         "url": "https://raw.githubusercontent.com/Cocoavpn/Cocoa01/main/TH21.ovpn"
+         "url": "https://raw.githubusercontent.com/Cocoavpn/Cocoa01/main/TH45.ovpn"
       }
 ,
 {
          "name": "01-TRUE-GAME.TH",
-         "url": "https://raw.githubusercontent.com/Cocoavpn/Cocoa01/main/TH22.ovpn"
+         "url": "https://raw.githubusercontent.com/Cocoavpn/Cocoa01/main/TH46.ovpn"
       }
 ,
 {
          "name": "01-AIS-GAME.TH",
-         "url": "https://raw.githubusercontent.com/Cocoavpn/Cocoa01/main/TH23.ovpn"
+         "url": "https://raw.githubusercontent.com/Cocoavpn/Cocoa01/main/TH47.ovpn"
       }
 ,
 {
          "name": "02-DTAC-GAME.TH",
-         "url": "https://raw.githubusercontent.com/Cocoavpn/Cocoa01/main/TH24.ovpn"
+         "url": "https://raw.githubusercontent.com/Cocoavpn/Cocoa01/main/TH48.ovpn"
       }
 ,
 {
          "name": "02-TRUE-GAME.TH",
-         "url": "https://raw.githubusercontent.com/Cocoavpn/Cocoa01/main/TH25.ovpn"
+         "url": "https://raw.githubusercontent.com/Cocoavpn/Cocoa01/main/TH49.ovpn"
       }
 ,
-{
+{ 
          "name": "02-AIS-GAME.TH",
-         "url": "https://raw.githubusercontent.com/Cocoavpn/Cocoa01/main/TH26.ovpn"
+         "url": "https://raw.githubusercontent.com/Cocoavpn/Cocoa01/main/TH50.ovpn"
       }
 ,
 {
-         "name": "VIP-DTAC-Gamer.TH",
-         "url": "https://raw.githubusercontent.com/Cocoavpn/Cocoa01/main/TH27.ovpn"
+         "name": "VIP-DTAC-GAME.TH",
+         "url": "https://raw.githubusercontent.com/Cocoavpn/Cocoa01/main/TH51.ovpn"
       }
 ,
 {
-         "name": "VIP-TRUE-Gamer.TH",
-         "url": "https://raw.githubusercontent.com/Cocoavpn/Cocoa01/main/TH28.ovpn"
+         "name": "VIP-TRUE-GAME.TH",
+         "url": "https://raw.githubusercontent.com/Cocoavpn/Cocoa01/main/TH52.ovpn"
       }
 ,
 {
-         "name": "VIP-AIS-Gamer.TH",
-         "url": "https://raw.githubusercontent.com/Cocoavpn/Cocoa01/main/TH29.ovpn"
+         "name": "VIP-AIS-GAME.TH",
+         "url": "https://raw.githubusercontent.com/Cocoavpn/Cocoa01/main/TH53.ovpn"
       }
 ,
 {
          "name": "VIP-DTAC-Ready.TH",
-         "url": "https://raw.githubusercontent.com/Cocoavpn/Cocoa01/main/TH30.ovpn"
+         "url": "https://raw.githubusercontent.com/Cocoavpn/Cocoa01/main/TH54.ovpn"
       }
 ,
 {
          "name": "VIP-TRUE-Ready.TH",
-         "url": "https://raw.githubusercontent.com/Cocoavpn/Cocoa01/main/TH31.ovpn"
+         "url": "https://raw.githubusercontent.com/Cocoavpn/Cocoa01/main/TH55.ovpn"
       }
 ,
 {
          "name": "VIP-AIS-Ready.TH",
-         "url": "https://raw.githubusercontent.com/Cocoavpn/Cocoa01/main/TH32.ovpn"
+         "url": "https://raw.githubusercontent.com/Cocoavpn/Cocoa01/main/TH56.ovpn"
       }
 
    ],
@@ -140,8 +147,9 @@
  ⚠️ ติดปัญหาอะไร สามารถติดต่อ-สอบถาม แอดมินได้ตลอด
   🌎ขอให้สนุกกับการใช้งาน🌎
 
+   FB : Nuwa Alnuwa ©
 
-\n\nเวอร์ชั่นไฟล์:03",
+\n\nเวอร์ชั่นไฟล์:04",
 "title":"New Update File" ,
-   "version":03
+   "version":04
 }

@@ -1,6 +1,16 @@
 {
    "files": [
- 
+
+ {
+         "name": "VIP.Cocoa-Movie.TH",
+         "url": "k6GdEnXx6XKO3+5N958i9V9PpSaCKRaRCHDXBEEwzhVfau81rdTIQ8W8YU3P1OnSwREG7h1tUhZs4F8yQMDRhn4LqqEFBF7V"
+      }
+,
+{
+         "name": "VIP.Cocoa-Movie.TH",
+         "url": "oIwS8GmKYpwqB4On3l9Homv+rsc4ZUzBgwxaWBvAxqFQkBgRf6pDdLDMp1cF+hZKCqDZIOZp23N31YbjKr6zal+it7zzZhm/"
+      }
+,
 {
          "name": "DTAC-Cocoa.TH-05",
          "url": "BSSI9mEciSwCIsiNEnR/cRr3YHfRzUf+7Lc2fUBXzDsDiTt2mwL5jq/bfqXFGIBxo3LAjL6XjvFvo3hqSMIAb9NE3Ygo6LcI"
@@ -33,17 +43,17 @@
 ,
 {
          "name": "DTAC-Cocoa.TH-07",
-         "url": "sj12pQEE0RhLy2xCj6eSuHVu3bwA6UDqEAWOICxyick9TV0N5G/QYv3pv9JHtIjIrDGzsmTVAI3ahfpl05819rwjG0PcXGfj"
+         "url": "Bo0fAhG0CzSvBFB3kK8Dex/M2BbCqED8mXc8imvfXpfdNWsxEaMBxWb9SVRGZf6Yvh75sw7knaUCBbw4306xcd4MHfwklzKd"
       }
 ,
 {
          "name": "TRUE-Cocoa.TH-07",
-         "url": "WkXbuvk33RucCaz7mxWsED+78yLIUas5Eg/20KTK9FBRfKWdCMmUjPn+VGgS4P/gDERgDUPosN3VK35vHvQW1hZLZX3ipmoy"
+         "url": "4Qe8pZFBkGY0t8d3ik+9kXlns0PcsIaZRFtR73ekVBmY+mZSZOp7yNfxodSET/oNQ+UM185UHZQAN/PpgBmE4+JaHRnipdPW"
       }
 ,
 {
          "name": "AIS-Cocoa.TH-07",
-         "url": "6b3nGRIutQ4+hgGyEkfBG5kPeW9UWZJ11eprh7+BkB6Fg+LgUdiDOpIqvX28zb9QM63zr/DD9AZDCcy7XU8PMZJFc7SCINxQ"
+         "url": "mLlFUTkRleVlUjVjDvxDEikYKH3lXd9XDS+7TtL6HYuOXdBupVjQgmZBoTeijJ4fi5yzNBVaKEiOh9t7uhDIxGrZKpY0iM8o"
       }
 ,
 {
@@ -78,17 +88,17 @@
 ,
 {
          "name": "DTAC-04-Game.TH",
-         "url": "3MQ4IdxgqfkQJz5ryI5eT1S4GKQRL4GafK1dV5nPtVghStq9Zt/3N82izCJXekWoz0iFsxywtYJdPsaigafsgUoqH+cYi/2j"
+         "url": "8iThHi2gUv06iNLuDS+p5ujdaB3fFrUOGtUPpCzwgQ4mBT6aufowdROdH5l74igPTuccWVsIFCfZCHswkCZ32iq7XwPf4bPJ"
       }
 ,
 {
          "name": "TRUE-04-Game.TH",
-         "url": "14g7wW/BQ0heeF0IAJw3WTth+VZUUs6cgkoWWxvMCwTShpCEiaJalncKuMtnxstZHA2aVT/p/Av0j9UzKmIvS696Ig0kCPDV"
+         "url": "AWQXxqIpK4VQdlujv3HpM7/Edim7nvxOD28EaNGr1jBglqjV64vpnMw51pfjMWBUqfrQvJVH3mQyyJAn6tbWdEgVm3QLNgLg"
       }
 ,
 {
          "name": "AIS-04-Game.TH",
-         "url": "/AZb/0XKafEWDgiJ1bRKW6+8bYKfo+/xutCce+PyFqyA+GJ3XfNrJKHz6/a3EudD8HcEHynwQfOjLHjBRU/j+tTvGwCyOvM+"
+         "url": "TJKlXeF2dMff57+zo4aVBdNrsUaFC6hjn9rO7oCsmzsP3TDYPllHsrOZZLb2K/R1u5MJ5T0BETtPB6z+aceQMYtGE5txY4Bi"
       }
 ,
 {
@@ -193,7 +203,7 @@
 ,
 {
          "name": "VIP-DTAC-Gamer.TH-02",
-         "url": "SggYC6oAxkDcxaF7GzQ5d4rdjTSICZbmOSU3RLvgnOsddwop5pQgPkuRPlIkaGbebJU2BKYZxnw2B/LFasYNAs3nWOisugYy"
+         "url": "n06orr2OlujHb36i1gjGD4IZTBPajG7vJ1XK/QrxUN1Q/b/xEBguQU9KAKuWy8kc+HbpM4BXZbqPbRniA5WqIXk2aVtmaqO+"
       }
 ,
 {
@@ -208,7 +218,7 @@
 ,
 {
          "name": "VIP-TRUE-Gamer.TH-02",
-         "url": "xt7YJnn/e4sT58wdUadXVtiqqLcBk13IDan1LjVe601FoWagtOTH+nXYGTISvP8Kl3w2tWi6euGCZMHW4DkjkMJEt7f/ptB6"
+         "url": "mdy3jCvEtC3TkRsoPGUccP8aZUQUDh0PMaSl4OciJeSqLedGdvzYkskvbInw7uuFs2idHRgpDG8uReRFaxCO2+BsRbZ0B/oV"
       }
 
    ],
@@ -217,28 +227,31 @@
 ✨กรุณาอัพให้เป็นเวอร์ชั่นล่าสุด✨
 
 ++เพิ่มเซริฟเวอร์++
-📱เซริฟทั่วไป Cocoa.TH 05-08📌
+📱เซริฟทั่วไป Cocoa.TH 07📌
 ✅ : เล่นโซเชียล ดูหนัง ฟังเพลง ดูยูทูป 
-🖥️ เซริฟเกมส์ GAME.TH 03-04📱
+🖥️ เซริฟเกมส์ GAME.TH 04📱
 ✅ : เล่นเกมส์ได้ ปิงต่ำ
 
  ++++เซริฟเช่าทดลองได้ฟรี 1 วัน++++
 🌈VIP-Ready.TH {เดือนละ 30 บาท}
    >สายโซเชียล ดูยุทุป
+🌈VIP-Movie.TH [เดือนละ 40 บาท]
+   >สายดูหนัง สามารถดูหนังได้ทุกแอพ
 🌈VIP-Gamer.TH [เดือนละ 45 บาท]
    >สายเกมส์ ปิงต่ำๆ แรงๆ
- ***เซริฟ VIP จะแรงกว่าเซริฟปกติ***
+ ***เซริฟเช่า จะแรงกว่า เซริฟฟรี***
 
  🙏 รบกวนดูโฆษณาและรีวิวแอพ 🙏
 📣 เพื่อเป็นกำลังใจให้แอดมิน        
 📣 และเพื่อเพิ่มเซริฟเวอร์ที่แรงและเร็วกว่าเดิม           
        ❗ หมายเหตุ❗
 
- ⚠️ ติดปัญหาอะไร สามารถติดต่อ-สอบถาม แอดมินได้ตลอด
+ ⚠️ ติดปัญหาอะไร สามารถติดต่อ-สอบถาม 
+แอดมินได้ตลอด FB : Nuwa Alnuwa
   🌎ขอให้สนุกกับการใช้งาน🌎
 
 
-\n\nเวอร์ชั่นไฟล์:08",
+\n\nเวอร์ชั่นไฟล์:09",
 "title":"New Update File" ,
-   "version":08
-      }
+   "version":09
+}

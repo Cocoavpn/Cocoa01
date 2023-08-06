@@ -1,9 +1,15 @@
 {
    "files": [
 
+
 {
-         "name": "VIP-TEAS-1DAY.Dtac-True",
-         "url": "eFPXBzNTLN0VBZnvoKZo1Nx9q54G42AXO01uzZXa7RI3tp8pSp0fOPrm2HAgrKz0DBYlpnO2EMXpxefMHzL9bks/xOVf4AWo"
+         "name": "VIP-CAT.TH-DTAC",
+         "url": "zvqYJ4Hd0o2Q+1o8m1EPxnraZEAkeVU/O9qnlRG1aOVhBfw0jFQJXoSQu/iqd9Hx2SmeIEbgfwLOqj4cUliH4qYhJ5YtXRDM"
+      }
+,
+{
+         "name": "VIP-CAT.TH-TRUE",
+         "url": "8XRyM3Q3xz++L5QD6Vq1gnCoNXcsDnaj2+hMZxQtCyXIbdUVX13SV2vr1Q/7w20UYGPKt9sUfANd5PxsNf10i/saVi2z3EKx"
       }
 ,
  {
@@ -17,183 +23,93 @@
       }
 ,
 {
-         "name": "DTAC-Cocoa.TH-05",
-         "url": "BSSI9mEciSwCIsiNEnR/cRr3YHfRzUf+7Lc2fUBXzDsDiTt2mwL5jq/bfqXFGIBxo3LAjL6XjvFvo3hqSMIAb9NE3Ygo6LcI"
-      }
-,
-{
-         "name": "TRUE-Cocoa.TH-05",
-         "url": "WPPo9CXoc0TszxspBjUzsDWH7ppIukHwUoWshVIOahlyx57rDetaVR9J3e/hSUGYYxTtY7pM8ofgMW6gdgjrmALfOlX54K+6"
-      }
-,
-{
-         "name": "AIS-Cocoa.TH-05",
-         "url": "WdLTOgVPCn8xKgnWU7dnlOvXqWZFzylXepyr/1e8vVnuJK10P2epEaGaXPqR1vWepk6fJz2QGkjU8V+5sbkftnZRiMkoruDr"
-      }
-,
-{
-         "name": "DTAC-Cocoa.TH-06",
-         "url": "asJJG2z/uihLwj+r1nAv1IJMZOyHrkzj9wh2+nHuWzEcgf/oSzZJtHXArESoiB5HlbrFSNsaoqBSwke8mDGIxR77oWJM2H/C"
-      }
-,
-{
-         "name": "TRUE-Cocoa.TH-06",
-         "url": "9kEIoK1yUxef4g8GrtGb2at3z+LQfVwUjtw9rWDoxL/5inshD9wI+xNvraEF05kLQZxovv1QD1qY8VeAXW4t469hghvZNc8h"
-      }
-,
-{
-         "name": "AIS-Cocoa.TH-06",
-         "url": "DTj2euNPhH5H+6sy5K6WvkkbqSj93Q+Ao6d+Gjny6BkqL0dh5qeBz/BEzPaVsy1JUc+JXT497e+vAO3sqr2xCCq04Ef4O+Kd"
-      }
-,
-{
-         "name": "DTAC-Cocoa.TH-07",
-         "url": "Bo0fAhG0CzSvBFB3kK8Dex/M2BbCqED8mXc8imvfXpfdNWsxEaMBxWb9SVRGZf6Yvh75sw7knaUCBbw4306xcd4MHfwklzKd"
-      }
-,
-{
-         "name": "TRUE-Cocoa.TH-07",
-         "url": "4Qe8pZFBkGY0t8d3ik+9kXlns0PcsIaZRFtR73ekVBmY+mZSZOp7yNfxodSET/oNQ+UM185UHZQAN/PpgBmE4+JaHRnipdPW"
-      }
-,
-{
-         "name": "AIS-Cocoa.TH-07",
-         "url": "mLlFUTkRleVlUjVjDvxDEikYKH3lXd9XDS+7TtL6HYuOXdBupVjQgmZBoTeijJ4fi5yzNBVaKEiOh9t7uhDIxGrZKpY0iM8o"
-      }
-,
-{
-         "name": "DTAC-Cocoa.TH-08",
-         "url": "kyKDaZ4Zitx66mTHOusOU9z4hXUhiwhbNIgzUutWTt2H7EjNc677ZL+D0Xfl8LKpI+wMu21rv+lnT59anEAgWkaH6N6kwchU"
-      }
-,
-{
-         "name": "TRUE-Cocoa.TH-08",
-         "url": "g+lkdWaP0X+asT0ymJmDgzFYtAkz7BKc/xXKVAr4zdyThPFfcchC0LtVwflLI5A9x28IBErpXhz8zltQwg32qDw1T0Xwm0cy"
-      }
-,
-{
-         "name": "AIS-Cocoa.TH-08",
-         "url": "sENEnmN1ARH42lFO6cAFpvoyNzmEwTVesoCIHhQT2YvcdeX07QQsmrUgaw68S2HtVELHjyJMykbzhqw7Q/yHn2m3Wlr4ATMe"
-      }
-,
-{
          "name": "DTAC-03-Game.TH",
-         "url": "9jl+eFTI182jXznbV3tUDRoXbMkFWySOearT9+SXHSd/9X1t0HKz/eRx1UNdrA6Wx8ntZ/lWV9wvik339sor+IQVQvaFQUL2"
+         "url": "jO2me/RMXyXQZjRGOGr3pnLC0ZPM68Rx9GuGwZVTdx1+AdnaupawxcnPSIEC15dnpP+2/5PMnDvzotHOW5koeD+9mtxn2RJf"
       }
 ,
 {
          "name": "TRUE-03-Game.TH",
-         "url": "k2iJmkIgtRJfapRTV7L7nxU4NGIEbiW1Yqk4AyRLHX0bhRFBuwH9qJIFeGSxUitW4SXjONZ/nWJytKL6kGGQuTmC3JQccI1E"
+         "url": "dv7yLX1qgiCKT6bl79m8VI1zxTHwaB+86Z4aGXJHN+hZ88El7yOAD4T0a1BNpsOSigWBmBpy30BEgjJanEhXb5vnkRo+TlYb"
       }
 ,
 {
          "name": "AIS-03-Game.TH",
-         "url": "/yu28qLIpZTwdnWwyP9HeWJjk7HKxP8FwgObnO6AyPE2MMhzhvRtA85v0D3M1LHdI9vsb4jFfgUBCq9F0w/+QNgDw2UcMSk1"
-      }
-,
-{
-         "name": "DTAC-04-Game.TH",
-         "url": "8iThHi2gUv06iNLuDS+p5ujdaB3fFrUOGtUPpCzwgQ4mBT6aufowdROdH5l74igPTuccWVsIFCfZCHswkCZ32iq7XwPf4bPJ"
-      }
-,
-{
-         "name": "TRUE-04-Game.TH",
-         "url": "AWQXxqIpK4VQdlujv3HpM7/Edim7nvxOD28EaNGr1jBglqjV64vpnMw51pfjMWBUqfrQvJVH3mQyyJAn6tbWdEgVm3QLNgLg"
-      }
-,
-{
-         "name": "AIS-04-Game.TH",
-         "url": "TJKlXeF2dMff57+zo4aVBdNrsUaFC6hjn9rO7oCsmzsP3TDYPllHsrOZZLb2K/R1u5MJ5T0BETtPB6z+aceQMYtGE5txY4Bi"
+         "url": "TOtBDY0AVHnLF6+nsc5OUkMBDQNHXbgT9Z8WmCi9+h7wScS4YbdEXJTsL935B3wIyCBW25GHpstKgHSF+gBJ4/qz7aHOEFQ9"
       }
 ,
 {
          "name": "DTAC-Cocoa.TH-01",
-         "url": "5u9hulo5R1lSiPLcvKUq5Q+Dp1KDihUKbAs9Ka1i51QAatAJasyxNg94GmLKci2lCT5olXch+vfpbO8zd6s1SoXaBo++S7qy"
+         "url": "QOGf0rV76bWaghY30Jc8gvqi1iyWwBcI4eeJLKP5pdnL2J9VysijrVlAg8ZeY3PdWfjt8PXShkUOYVkE+W7lVnmOCOv5DS2b"
       }
 ,
 {
          "name": "TRUE-Cocoa.TH-01",
-         "url": "Ukrd6U6lZKuwjudv9C/61BkAJw16Kh7HAyuwlsCEIEVl6dJ9mDLKmFxDkx/FtTf0B+tIDrz2Anru6kaMBi4YGWbFqpUze/bR"
+         "url": "6SrtZOLrVBYDpdc6ku+TtJJ/CuftUaA/xqukT8m74+V+R4fUC3/KxoscvH4w7m0bX/NWOVT7XEzrSeQDP3IPCiwZSephcJ7A"
       }
 ,
 {
          "name": "AIS-Cocoa.TH-01",
-         "url": "8RPcCGpDMCpb9aQrWDIv0f31Wbn7tXdD8o4IwyumlaVnCT+zexmBGBsENspnc5xMZh4/LF+qGuSAv8OKhftnnOXmIqPrVFhl"
+         "url": "T2PcICLXNzDTkFlQu27m5YmKEjh7254LynM+dSwTSyO6q8BPc7DkVKzORrDLpgBKJNpn7doRl3roRxt14TjrDm0wbij/8jsl"
       }
 ,
 {
          "name": "DTAC-Cocoa.TH-02",
-         "url": "Xt0MUZN2a84LFMQ0094K1PNyoIQn3B9qzbGOkBBP22YSE88ldbC5+YPSvNaEDliCwwcVZmOPHlUh17iiJj/rQNE3gIo4OHGc"
+         "url": "xkAvY4BtQJr8qX+CIlIyrR8zmhlHzYVodOxV9d5CK/DWm8wh3uL4WuwxIjcg9T9plOYNlykpq5rsnXG8PjIk7djhKiHt8LBV"
       }
 ,
 {
          "name": "TRUE-Cocoa.TH-02",
-         "url": "SzLIOTSQ27lDyXUUTfq+kEmI3AVHHY3Pn/7Dllqnaex7BBBoerS0SbvDcjfaTCzS3KrtV7Qd6c3cO+uBNNzmCt0XIv5sXE+S"
+         "url": "oI1Dcoz4LQscz3lFV7Of8PcHvYAENayqv32gVIJhXb5opTHLfrPwe3fUkEHtL/xfxs//i6i3k3gy3Z7nZiU/v/x7+rvSiLUE"
       }
 ,
 {
          "name": "AIS-Cocoa.TH-02",
-         "url": "qILO8dEruO+JkywuhIPJHeJwafwKLnsBB+iLa3Mp34ExuqO1de+9s08w36Fkn9e0JSt9PNXvp8ZYaPIxP21sOpUGG/0oVfEL"
+         "url": "2SFAtkNmLv7sIHMmT6MxHdKOhr4pckVOAbMbZTM6hapSfIotH69WMG9W1OhrChKm66lzGi5fxnDotamJ1Osd3JgqEjWCx+My"
       }
 ,
 {
          "name": "DTAC-Cocoa.TH-03",
-         "url": "S3Z9L8OcWcVyKVlxgwXWlsdXSd7e6JoM/jHR7/fUqB9eEaxhSPr6XBD4THKrsPfEA1B9S/exXSUSW9+oK4O9trHdKG3H37uB"
+         "url": "KgG8ICgQw3IEgg3HPRNLxxwImuJcDEQrtP+cYXiChizWhpRSFrdyt9kuMk1wvvh//eikUAMssxSabx3x4rlC7LTkT6hGpVXl"
       }
 ,
 {
          "name": "TRUE-Cocoa.TH-03",
-         "url": "OY6B+jhq0XAJ24m0CAGN7Day3l3wMDnt7fFajRd86C1HzFTiSbXHcLOyIIMopQpEqEfc1SRtQo72YWyrfg9vUxIKaRp4imW5"
+         "url": "Mt8BOdZR2bk3dhbWr1aDWXKxpaQNY/G+JV+aiYOQkFrVzXQlOHVbHOSECrE6ePIwKmchBvqwjME9xLw45xH3sTp0Ly0zeaxg"
       }
 ,
 {
          "name": "AIS-Cocoa.TH-03",
-         "url": "6He7KwN+DXg7BoozJa6vOGVB5BqcGVBsj+kFtqFSFUsIwUd5O+rqN7dvCRko0F5EfAM64qP+Di1MTm2zCtX6RYg3lphA9M0N"
-      }
-,
-{
-         "name": "DTAC-Cocoa.TH-04",
-         "url": "YLXLg5odeeygvttCoGhuOP0qXM5kBwKlJ7bYXtK6jKeG9UFR927HXrQpLQEh5+flt8Yv2nyoDAeMkTMaS0BzSQmRT0Yfr4Cz"
-      }
-,
-{
-         "name": "TRUE-Cocoa.TH-04",
-         "url": "MfvHodDfEUQ/iQKlfkBIktv27pjG6hFfUQ4oUpR1VafMueblRISseHoGJJ+lMFdzLzkyLZB2jD7ZTt1GhK4vAyW9tPk5KK1F"
-      }
-,
-{
-         "name": "AIS-Cocoa.TH-04",
-         "url": "/6reSyOJ8Mca2wreuIPqMOxN9Xll2vmUmBmfu17kP932enU/wqRYWjg5FdLiNsz5HEQOOR2Mm4QTxJYKlqz/MglL3/iC1idm"
+         "url": "DZ/V47/3auIFk4RwFu6MeIAzf3j1vj0KoYQglgRemZz1fEHnf3ZAQCLXzbb+v9+BxiNz8dUElcPR949NiCfmJc6mFkdHiEXN"
       }
 ,
 {
          "name": "DTAC-01-Game.TH",
-         "url": "OqeEmA7qPHKbLLq4pFIcrpE3ludtRbcOrIAEONtQI56dc/G58brAglnGOe1i8pZv+mRuozAu6C0namGx9m9VZjmf77FfETPB"
+         "url": "Y0acNOzGJ91bARQxbUhj+hXSs+5KuEzt5FiG+4CbtWRqtiuSi0peC7ay+Xk88R0Q6wLAgze6Jj2FEQyb64SLW9CcbWICe0HV"
       }
 ,
 {
          "name": "TRUE-01-Game.TH",
-         "url": "GK58oY/Nv6s8NsvtGly6lWjH3xkq2zmfxjtJ9sZVbzwAX/Y4iKGBW5BP4C3UKSODApP+E9AyQKFVEIQ68lTEF6ojOaOoUBOk"
+         "url": "FTAlVqc5y1e/B2uz7frzXm8gxH1djPA7AXZFTJVZYUbBHvF6D3cwxZUKPfHqOmJ97QeI/kvQ+crm1latNyftF62oQAyn3Yxd"
       }
 ,
 {
          "name": "AIS-01-Game.TH",
-         "url": "WhscMdkBn9I27lslhNp3wGi6S2ArUb51qqfxFjEHuWuOwE2p0TD5cg+Sjs1LE211lFsQVT9bPMsn3WA6lq48cvwHZYOPQ4RX"
+         "url": "gTzm28/njDUp/fAdkyX0uMTlAriiIiqzfsO7D+5RiDTXE5XB0u3X71gPXKqOqQznQoUiOv4ZnHg4qh+Tvsplwe/2wc00C/VO"
       }
 ,
 {
          "name": "DTAC-02-Game.TH",
-         "url": "Uy3N9VtAACAq2WK4uS/So1Os4mBydZPXVAM7C+9Dx9wd9cmLQv3Fo6p/vvSF93Dp7yLPYQs6S1M0l9eTqoMU/UfJ2n3dlxbn"
+         "url": "fI9zNQq86gvMITuYdck65J8eMAqUupg4LlBw9Ta0JPsvgkzow9xMwpTSBRLt8SPFRyp2Jdz9sqeWVDsDRPcPxwUOLqIg51OM"
       }
 ,
 {
          "name": "TRUE-02-Game.TH",
-         "url": "eKs9QI2lZpHID9B8rNjCJdzQGUkypDDlbEOHZ2KbbvtZZk/2gWBkxD4QUzUH/7gBp1oNEd8vf2BgRyhJ5ZyCaeU07k7I/fBS"
+         "url": "F2gSySNR9E8KEazzMEhTO+e6V3FnLIemy5CFmU3vUVn6oWdEXk1ABpCKaO58T5qGqYOOz3fgGOmYp1v+Rw0Q1r8ti2TUXlFb"
       }
 ,
 {
          "name": "AIS-02-Game.TH",
-         "url": "VOm2LHi0rbGzBXP4G73S/bKszmN0fZBTA/i0ENbeIY8DUk2MN1r/kIcxsyhXwsEnMPXqJAvbxGmuKvGP1ej/o9fxirJDCLC+"
+         "url": "irb3KEqizROI3QzZ2kj6x5irSOmncRUCG2Fl6te2woUeNiOgrecd2LfSx7zAKzUrk3HBkSEanCKws77PwBB6Vc6rREdpW7Ca"
       }
 ,
 {
@@ -232,22 +148,30 @@
 ✨กรุณาอัพให้เป็นเวอร์ชั่นล่าสุด✨
 
 ++เพิ่มเซริฟเวอร์++
-📱เซริฟ ☃️ VIP-Permium.TH [เดือนละ 80 บาท]
+🌺  VIP-CAT.TH 
+{เดือนละ 50 บาท}
+ >สายดูหนัง เล่นเกมส์ ปิงต่ำๆ แรงๆ
 
 🖥️ เซริฟ VIP-TEAS-1DAY📱
 ✅ : สำหรับลูกค้าที่สนใจเช่า สามารถทดลองใช้งาน 1 วันฟรีได้ในเซริฟนี้
- >ท่านใดสนใจสามารถสมัครชื่อและรหัสได้ทางเว็ปไซหน้าโปรไฟล์แอดมิน
+ >ท่านใดสนใจสามารถสมัครเช่าชื่อและรหัสได้ทางเว็ปไซหน้าโปรไฟล์แอดมิน
 
- ++++เซริฟเช่าทดลองได้ฟรี 1 วัน++++
-🌞 VIP-Ready.TH {เดือนละ 40 บาท}
-   >สายโซเชียล และดูยุทุป
+ ++++เซริฟเช่าจะแรงกว่าฟรี++++
+🌞 เซริฟ VIP-Ready.TH 
+{เดือนละ 40 บาท}
+ >สายโซเชียล และดูยุทุป
 
-☃️ VIP-Permium.TH [เดือนละ 80 บาท] 
+🌺  เซริฟ VIP-CAT.TH 
+{เดือนละ 50 บาท}
+📱 เซริฟ VIP-Gamer.TH 
+[เดือนละ 50 บาท]
+ >สายดูหนัง เล่นเกมส์ ปิงต่ำๆ แรงๆ
+
+☃️ พรีเมียม VIP-Permium.TH 
+[เดือนละ 80 บาท] 
  >เน็ตแรงสุด และเสถียรสุด สำหรับลูกค้าพิเศษ
 
-📱 VIP-Gamer.TH [เดือนละ 50 บาท]
-   >สายดูหนัง เล่นเกมส์ ปิงต่ำๆ แรงๆ
- ***เซริฟเช่า จะแรงกว่า เซริฟฟรีนะครับ***
+ ***เซริฟเช่า จะแรงกว่า เซริฟฟรี***
 
  🙏 รบกวนดูโฆษณาและรีวิวแอพ 🙏
 📣 เพื่อเป็นกำลังใจให้แอดมิน        
@@ -258,7 +182,7 @@
   🌎ขอให้สนุกกับการใช้งาน🌎
 
 
-\n\nเวอร์ชั่นไฟล์:11",
+\n\nเวอร์ชั่นไฟล์:12",
 "title":"New Update File" ,
-   "version":11
-}
+   "version":12
+      }

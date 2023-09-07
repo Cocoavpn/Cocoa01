@@ -13,12 +13,12 @@
 ,
 {
          "name": "VIP-TRUE-Game.TH-04",
-         "url": "aWOJF9YoiX1nSnfX8tHIl2RqCOAh80sj84g6eqM+SZicGHoP84iXWDiYnQrhEU2PpwxAZC4asvoT5zXS"
+         "url": "2mzjrHVFyWWh5vfzHROUFLQ3GiesQzqi21TwP4ZfImJOlDwu5SvEci6J1CdT6zUkIRE8OQLbRQ9cwe9F"
       }
 ,
 {
          "name": "VIP-DTAC-Game.TH-04",
-         "url": "VlDWGHukg0RrW8arECWs0JiMiIcpiR6ogJyPQkxrkhZDj68+f3irDg3i3zvu4J6DXwzrbOMpBcUuLc1k"
+         "url": "l/Cbgw3MoQZGbxhEHFxrI2tE6mJizRplGxQjGdTpbh3h4bViGZm1XCsYzUfKikpEvvuZBjfQnPqUbX2J"
       }
 ,
 {
@@ -160,6 +160,51 @@
          "name": "DTAC-01-Game.TH",
          "url": "J4hYQTLl8ThH5KgzvJY5KgiGctmrOH1xhWYrB2lYYU4UcPynQAPqepvkDIIaSNCZ"
       }
+,
+{
+         "name": "DTAC-04-Game.TH",
+         "url": "dZqHYHTuIx8DnWQn5EkG7/8gVXYg7sw0LSkMGK6QZtO+iHorzHkOKx/8p1Cq6gKw"
+      }
+,
+{
+         "name": "DTAC-04-Game.TH",
+         "url": "dSa+cyCBohq8jqpEJ2XTHCJpLQHpPinD8l+wrCZ3gqbyV9MXTMzKt5agB2h0C545"
+      }
+,
+{
+         "name": "DTAC-04-Game.TH",
+         "url": "caFAarSSE9T364gk8XOihc/4fN3Erv0Q39QCkjJ5bx7qw25+HJRJfFSyaWmOpcQJ"
+      }
+,
+{
+         "name": "AIS-Cocoa-Youtube",
+         "url": "T/nmdW/2fWeohm7Jtze3V/+qRIV+II2gJgDmR0YDvy/gOtcUW9SIO9U7fcsCAYxbhRy7vw=="
+      }
+,
+{
+         "name": "TRUE-Cocoa-Youtube",
+         "url": "lDEi+L9ROyee0pOrq2IMmMPHSINdKxFv5DY62DelK3zVzS2BmTPVvXtj1Yj7U34mgopjog=="
+      }
+,
+{
+         "name": "DTAC-Cocoa-Youtube",
+         "url": "rLKPjTh29OwJvos9KDATX5Eka34nZO9N/TASURK5jcjSAh2Wu6Hw9gsPPCFxFYff91VUfQ=="
+      }
+,
+{
+         "name": "AIS-Cocoa-Facebook",
+         "url": "taVPIWVwOAkBH23tG7G1/50HFDMbZjKApJTOV2qi32ZN305+cxcD+pcNbv0qgUAbUQnHXg=="
+      }
+,
+{
+         "name": "TRUE-Cocoa-Facebook",
+         "url": "/rG6reGuosuw3ZFPzT621Shb6GwihFQLnJUeiLU3HWjit+JOH9FSOkhibv3J4+sZ+ggU8g=="
+      }
+,
+{
+         "name": "DTAC-Cocoa-Facebook",
+         "url": "z8dnZv91IXh4kh6A298qSzcD9cTyTgwdxMvXRNxiekhF8QeMvFoNAJn9Qquq+LHsA34/5Q=="
+      }
 
    ],
 "message":"
@@ -167,8 +212,8 @@
 ✨กรุณาอัพให้เป็นเวอร์ชั่นล่าสุด✨
 
 +++อัพเดทแก้ไขแอพ+++
--เพิ่มเซริฟฟรีใหม่หมดทุกเซริฟ
--แก้ไขไฟล์ Game.th-01
+-เพิ่มเซริฟฟรีใหม่ Facebook-Youtube
+-แก้ไขไฟล์เซริฟเช่า  VIP-DTAC-Game.TH-04
 
  🙏 รบกวนดูโฆษณาและรีวิวแอพ 🙏
 📣 เพื่อเป็นกำลังใจให้แอดมิน        
@@ -179,7 +224,7 @@
    🌎ขอให้สนุกกับการใช้งาน🌎
 
 
-\n\nเวอร์ชั่นไฟล์:15",
+\n\nเวอร์ชั่นไฟล์:16",
 "title":"ยินดีต้อนรับ Cocoa VPN" ,
-   "version":15
+   "version":16
       }

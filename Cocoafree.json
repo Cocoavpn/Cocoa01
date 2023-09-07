@@ -13,7 +13,7 @@
 ,
 {
          "name": "VIP-TRUE-Game.TH-04",
-         "url": "vJCB6yQ903u0uEWhjwKgGks1qIxusCNOfSR/aDe5BzzllH8UAy75hkYpQjn0dHeFFiG48bLTETBCO7c2"
+         "url": "2mzjrHVFyWWh5vfzHROUFLQ3GiesQzqi21TwP4ZfImJOlDwu5SvEci6J1CdT6zUkIRE8OQLbRQ9cwe9F"
       }
 ,
 {
@@ -102,32 +102,32 @@
       }
 ,
 {
-         "name": "AIS-Cocoa.SG-02",
+         "name": "AIS-Cocoa.Youtube",
          "url": "4V0jm9dTKuKrWLtUezegkqufIHjLESu9v9sTMikBQMhSe7dS8SzaeKfY6PTIXqt8"
       }
 ,
 {
-         "name": "TRUE-Cocoa.SG-02",
+         "name": "TRUE-Cocoa.Youtube",
          "url": "jEi8l3Swv9lTgMv3xdh9EHLEw14Epkq+FlWx6B/zchcCo+qO4AfTKrSpWu0C8DwZ"
       }
 ,
 {
-         "name": "DTAC-Cocoa.SG-02",
+         "name": "DTAC-Cocoa.Youtube",
          "url": "+733m2xAF5fK0NvmVs9JfdyOQIrmvUf79GlBLGh20Zabqm2GpHD4DUu9+aXxSNMz"
       }
 ,
 {
-         "name": "AIS-Cocoa.SG-01",
+         "name": "AIS-Cocoa.Facebook",
          "url": "J/7vadOd2zocF9Tl+ZSubfaw6MGwElBFujG8RpGzDmRCFrGEPlFHf34T6BdPDT+T"
       }
 ,
 {
-         "name": "TRUE-Cocoa.SG-01",
+         "name": "TRUE-Cocoa.Facebook",
          "url": "uoNYeU7AiiyNOIk4ropB1UybpmXSt6btgRxYiCqhVSm3HK7Lk77fsgPQFLBtYREb"
       }
 ,
 {
-         "name": "DTAC-Cocoa.SG-01",
+         "name": "DTAC-Cocoa.Facebook",
          "url": "iZ00elWvVlkqLyyW2BybWNY0z61XI4ACpy35wCyzArhJnyAFwsFH30rAXU82OYiy"
       }
 ,
@@ -163,47 +163,17 @@
 ,
 {
          "name": "DTAC-04-Game.TH",
-         "url": "dZqHYHTuIx8DnWQn5EkG7/8gVXYg7sw0LSkMGK6QZtO+iHorzHkOKx/8p1Cq6gKw"
+         "url": "ynZH13POKVNu2muH+MmqMAl4Hy/Tmb30pBAz4Ry13NXiqFaiF0nQPdayU77OfY3a"
       }
 ,
 {
          "name": "DTAC-04-Game.TH",
-         "url": "dSa+cyCBohq8jqpEJ2XTHCJpLQHpPinD8l+wrCZ3gqbyV9MXTMzKt5agB2h0C545"
+         "url": "ivbRaPjkIo49WGf/jaoeCib90+n65eAW8vJDKHXoKy3mrG6Ozce4/KOW4xlv875L"
       }
 ,
 {
          "name": "DTAC-04-Game.TH",
-         "url": "caFAarSSE9T364gk8XOihc/4fN3Erv0Q39QCkjJ5bx7qw25+HJRJfFSyaWmOpcQJ"
-      }
-,
-{
-         "name": "AIS-Cocoa-Youtube",
-         "url": "T/nmdW/2fWeohm7Jtze3V/+qRIV+II2gJgDmR0YDvy/gOtcUW9SIO9U7fcsCAYxbhRy7vw=="
-      }
-,
-{
-         "name": "TRUE-Cocoa-Youtube",
-         "url": "lDEi+L9ROyee0pOrq2IMmMPHSINdKxFv5DY62DelK3zVzS2BmTPVvXtj1Yj7U34mgopjog=="
-      }
-,
-{
-         "name": "DTAC-Cocoa-Youtube",
-         "url": "rLKPjTh29OwJvos9KDATX5Eka34nZO9N/TASURK5jcjSAh2Wu6Hw9gsPPCFxFYff91VUfQ=="
-      }
-,
-{
-         "name": "AIS-Cocoa-Facebook",
-         "url": "taVPIWVwOAkBH23tG7G1/50HFDMbZjKApJTOV2qi32ZN305+cxcD+pcNbv0qgUAbUQnHXg=="
-      }
-,
-{
-         "name": "TRUE-Cocoa-Facebook",
-         "url": "/rG6reGuosuw3ZFPzT621Shb6GwihFQLnJUeiLU3HWjit+JOH9FSOkhibv3J4+sZ+ggU8g=="
-      }
-,
-{
-         "name": "DTAC-Cocoa-Facebook",
-         "url": "z8dnZv91IXh4kh6A298qSzcD9cTyTgwdxMvXRNxiekhF8QeMvFoNAJn9Qquq+LHsA34/5Q=="
+         "url": "Lqq0TdoWSIO8GHxbkGMjcrMhTfrG4rDgVDUTYVZg0lAqK0HoOzljqQeKHMSdoMd6"
       }
 
    ],
@@ -212,8 +182,11 @@
 ✨กรุณาอัพให้เป็นเวอร์ชั่นล่าสุด✨
 
 +++อัพเดทแก้ไขแอพ+++
--เพิ่มเซริฟฟรีใหม่ Facebook-Youtube
--แก้ไขไฟล์เซริฟเช่า  VIP-DTAC-Game.TH-04
+-เพิ่มเซริฟฟรีใหม่ 
++ Facebook
++ Youtube
++ Game.TH-04
+-แก้ไขไฟล์  VIP-DTAC-Game.TH-04
 
  🙏 รบกวนดูโฆษณาและรีวิวแอพ 🙏
 📣 เพื่อเป็นกำลังใจให้แอดมิน        
@@ -224,7 +197,7 @@
    🌎ขอให้สนุกกับการใช้งาน🌎
 
 
-\n\nเวอร์ชั่นไฟล์:17",
+\n\nเวอร์ชั่นไฟล์:18",
 "title":"ยินดีต้อนรับ Cocoa VPN" ,
-   "version":17
+   "version":18
       }

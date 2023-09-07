@@ -13,12 +13,12 @@
 ,
 {
          "name": "VIP-TRUE-Game.TH-04",
-         "url": "2mzjrHVFyWWh5vfzHROUFLQ3GiesQzqi21TwP4ZfImJOlDwu5SvEci6J1CdT6zUkIRE8OQLbRQ9cwe9F"
+         "url": "aWOJF9YoiX1nSnfX8tHIl2RqCOAh80sj84g6eqM+SZicGHoP84iXWDiYnQrhEU2PpwxAZC4asvoT5zXS"
       }
 ,
 {
          "name": "VIP-DTAC-Game.TH-04",
-         "url": "l/Cbgw3MoQZGbxhEHFxrI2tE6mJizRplGxQjGdTpbh3h4bViGZm1XCsYzUfKikpEvvuZBjfQnPqUbX2J"
+         "url": "VlDWGHukg0RrW8arECWs0JiMiIcpiR6ogJyPQkxrkhZDj68+f3irDg3i3zvu4J6DXwzrbOMpBcUuLc1k"
       }
 ,
 {
@@ -43,12 +43,12 @@
 ,
 {
          "name": "VIP-True-Game.TH-01",
-         "url": "Sqp7Gew32gtBUjPFnDVMh1f2uFytHWywYT41PAnDUP/j4500Br7Ls53RaWqHBh2TDL3YoWcRQFo8a3jpwFf1TIAd9Rw="
+         "url": "pKzXqCEVLkL5IabSehg9dLUYgLmAzHeqrk3MeOOX/Wzxt2Z2ScK9W8pmn5JZCbymDA5US/b2q4D7eBjN"
       }
 ,
 {
          "name": "VIP-DTAC-Game.TH-01",
-         "url": "YOlG87eb6UULlQFSZ7AN9PulVuTLTF/DDBhSUQImGTaxQbL7g0qBgq+kUeUkpSd3AiVjQ6XMLrVV1z3a2WyYa1/jv9U="
+         "url": "yDzh2j7DzhEcfv3E/ECUFaLpumZ+xgsOEbG+6+HFJWdnR0lgicunkJ8G9nYuqR8jog9GPkEyyF8DcfVi"
       }
 ,
 {
@@ -102,33 +102,48 @@
       }
 ,
 {
-         "name": "AIS-Cocoa.Youtube",
-         "url": "4V0jm9dTKuKrWLtUezegkqufIHjLESu9v9sTMikBQMhSe7dS8SzaeKfY6PTIXqt8"
+         "name": "AIS-Cocoa.YOUTUBE",
+         "url": "HE4NwAIOlPjUsOCpTOa04CkLZiiwH62whfjkyYXWBnLtTzmmM08uaOURqRyRHiLHbZKMTQ=="
       }
 ,
 {
-         "name": "TRUE-Cocoa.Youtube",
-         "url": "jEi8l3Swv9lTgMv3xdh9EHLEw14Epkq+FlWx6B/zchcCo+qO4AfTKrSpWu0C8DwZ"
+         "name": "TRUE-Cocoa.YOUTUBE",
+         "url": "ZaiZCeRqELvh+B8jvtCm3y3Wwlx3QS9wR1MOACAI/xlcGprsNi1Bxnvbbsx8OxAxIt4g4g=="
       }
 ,
 {
-         "name": "DTAC-Cocoa.Youtube",
-         "url": "+733m2xAF5fK0NvmVs9JfdyOQIrmvUf79GlBLGh20Zabqm2GpHD4DUu9+aXxSNMz"
+         "name": "DTAC-Cocoa.YOUTUBE",
+         "url": "fg2BGa3s8N9xhALHfpXLbAdl4DUaZNBGXZu0FRb8wEwLjafJY35CXxJIbqZ/0o6DORqrJA=="
       }
 ,
 {
-         "name": "AIS-Cocoa.Facebook",
-         "url": "J/7vadOd2zocF9Tl+ZSubfaw6MGwElBFujG8RpGzDmRCFrGEPlFHf34T6BdPDT+T"
+         "name": "AIS-Cocoa.FACEBOOK",
+         "url": "8zmZm5bTjuwosWkce9m/VzNiHk+7NZSE2zP8bC5DOxC3w2XoP7dDa8c7T8zDOrwMc7du2g=="
       }
 ,
 {
-         "name": "TRUE-Cocoa.Facebook",
-         "url": "uoNYeU7AiiyNOIk4ropB1UybpmXSt6btgRxYiCqhVSm3HK7Lk77fsgPQFLBtYREb"
+         "name": "TRUE-Cocoa.FACEBOOK",
+         "url": "GZOE7X/YYh138rnVu3dUuMT7hKH736BUpyhrD2pXV04pcHf66qRQd02mQxqM2AFSMW9BIg=="
       }
 ,
 {
-         "name": "DTAC-Cocoa.Facebook",
-         "url": "iZ00elWvVlkqLyyW2BybWNY0z61XI4ACpy35wCyzArhJnyAFwsFH30rAXU82OYiy"
+         "name": "DTAC-Cocoa.FACEBOOK",
+         "url": "y6JUUh61jRrA0EXIEYp2qXrhEjCDZAuJRNhBrtAKDAREsnL6GDjG11ODkvUlav4h6W+eFw=="
+      }
+,
+{
+         "name": "AIS-03-Game.TH",
+         "url": "ynZH13POKVNu2muH+MmqMAl4Hy/Tmb30pBAz4Ry13NXiqFaiF0nQPdayU77OfY3a"
+      }
+,
+{
+         "name": "TRUE-03-Game.TH",
+         "url": "ivbRaPjkIo49WGf/jaoeCib90+n65eAW8vJDKHXoKy3mrG6Ozce4/KOW4xlv875L"
+      }
+,
+{
+         "name": "DTAC-03-Game.TH",
+         "url": "Lqq0TdoWSIO8GHxbkGMjcrMhTfrG4rDgVDUTYVZg0lAqK0HoOzljqQeKHMSdoMd6"
       }
 ,
 {
@@ -160,21 +175,6 @@
          "name": "DTAC-01-Game.TH",
          "url": "J4hYQTLl8ThH5KgzvJY5KgiGctmrOH1xhWYrB2lYYU4UcPynQAPqepvkDIIaSNCZ"
       }
-,
-{
-         "name": "DTAC-04-Game.TH",
-         "url": "ynZH13POKVNu2muH+MmqMAl4Hy/Tmb30pBAz4Ry13NXiqFaiF0nQPdayU77OfY3a"
-      }
-,
-{
-         "name": "DTAC-04-Game.TH",
-         "url": "ivbRaPjkIo49WGf/jaoeCib90+n65eAW8vJDKHXoKy3mrG6Ozce4/KOW4xlv875L"
-      }
-,
-{
-         "name": "DTAC-04-Game.TH",
-         "url": "Lqq0TdoWSIO8GHxbkGMjcrMhTfrG4rDgVDUTYVZg0lAqK0HoOzljqQeKHMSdoMd6"
-      }
 
    ],
 "message":"
@@ -183,10 +183,10 @@
 
 +++อัพเดทแก้ไขแอพ+++
 -เพิ่มเซริฟฟรีใหม่ 
-+ Facebook
-+ Youtube
++ FACEBOOK
++ YOUTUBE
 + Game.TH-04
--แก้ไขไฟล์  VIP-DTAC-Game.TH-04
+-แก้ไขไฟล์   VIP-DTAC-Game.TH-04
 
  🙏 รบกวนดูโฆษณาและรีวิวแอพ 🙏
 📣 เพื่อเป็นกำลังใจให้แอดมิน        
@@ -197,7 +197,7 @@
    🌎ขอให้สนุกกับการใช้งาน🌎
 
 
-\n\nเวอร์ชั่นไฟล์:18",
+\n\nเวอร์ชั่นไฟล์:19",
 "title":"ยินดีต้อนรับ Cocoa VPN" ,
-   "version":18
+   "version":19
       }
